@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScientificCalculator</string>
+    <string name="text">x²</string>
+    <string name="textfac">x!</string>
+    <string name="textsqrt">√</string>
+    <string name="textinvert">inv</string>
+    <string name="textdiv">÷</string>
+    <string name="textmul">×</string>
+    <string name="textmin">-</string>
+    <string name="textpi">𝝅</string>
+    <string name="textlog">log</string>
+    <string name="textln">ln</string>
+    <string name="textequal">=</string>
+    <string name="textdot">.</string>
+</resources>
